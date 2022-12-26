@@ -9,8 +9,4 @@ app name : account
 pip install djangorestframework
 pip install djangorestframework-simplejwt
 pip install django-cors-headers
-
-1. Models
-2. Admin
-3. Serializers
-4. Views and URLs
+pip install django-dotenv
